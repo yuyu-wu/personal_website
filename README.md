@@ -1,6 +1,6 @@
 ### Overview
 
-This is my portfolio website.
+This is my personal website.
 
 ### Live Link
 
@@ -8,7 +8,7 @@ This is my portfolio website.
 
 ## Screenshots
 
-![Portfolio screenshot](/img/portfolio-screenshot.png)
+<!-- ![Portfolio screenshot](/img/portfolio-screenshot.png) -->
 
 ### Built with
 
